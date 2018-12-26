@@ -1,8 +1,8 @@
 {
   "name": "hundushang-util",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "工具函数",
-  "main": "./dist/index.js",
+  "main": "./dist/mian.js",
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production"
